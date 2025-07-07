@@ -8,6 +8,7 @@ I'm passionate about game development and exploring the intersection of technolo
 - **2024.03~** - **HGU CRA (Computer Research Association)** - Member of CRA, focusing on advanced computing topics.
 - **2024.03~** - **HGU SIRIUS (Game Development Association)** - Joined Sirius, an association dedicated to game development.
 - **2024.07** - **HGU Gamejam** - Awarded **1st Place** with a team-based game project, leading to an impactful game design experience.
+- **2025.06~** – **HGU BCI Lab** – Joined BCI Lab, focusing on brain-computer interface research and applications in robotics and VR
 
 ## 🎮 Projects
 
@@ -21,6 +22,13 @@ I'm passionate about game development and exploring the intersection of technolo
     A creative puzzle adventure blending 2D and 3D gameplay, designed for maximum engagement and innovative storytelling.
     
     - **Role**: Lead Programmer and Director, overseeing core mechanics and game design direction.
+- **VR + BCI-Controlled Telepresence Robot** (WIP)
+    A telepresence system enabling users—especially those with physical limitations—to control a mobile robot via BCI (P300) in a VR environment.
+    Combines ROS, YOLO object detection, 360° live streaming, and Unity for immersive interaction.
+
+    - **Role**: System architect and full-stack developer, leading BCI integration, ROS environment setup, and Unity-based VR interface
+
+
 
 ---
 
