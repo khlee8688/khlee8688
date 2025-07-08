@@ -23,6 +23,7 @@ I'm passionate about game development and exploring the intersection of technolo
     
     - **Role**: Lead Programmer and Director, overseeing core mechanics and game design direction.
 - **VR + BCI-Controlled Telepresence Robot** (WIP)
+  
     A telepresence system enabling users—especially those with physical limitations—to control a mobile robot via BCI (P300) in a VR environment.
     Combines ROS, YOLO object detection, 360° live streaming, and Unity for immersive interaction.
 
