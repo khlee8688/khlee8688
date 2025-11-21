@@ -2,14 +2,6 @@
 
 I'm passionate about game development and exploring the intersection of technology and human experience. My journey has led me from competitive programming to pioneering projects involving brain-computer interfaces in game design. Here’s a glimpse into my work:
 
-## 🏆 Highlights
-
-- **2023.11** - **HGU C-Programming Contest** - Awarded Excellence Prize.
-- **2024.03~** - **HGU CRA (Computer Research Association)** - Member of CRA, focusing on advanced computing topics.
-- **2024.03~** - **HGU SIRIUS (Game Development Association)** - Joined Sirius, an association dedicated to game development.
-- **2024.07** - **HGU Gamejam** - Awarded **1st Place** with a team-based game project, leading to an impactful game design experience.
-- **2025.06~** – **HGU BCI Lab** – Joined BCI Lab, focusing on brain-computer interface research and applications in robotics and VR
-
 ## 🎮 Projects
 
 - **BCI-Integrated Horror Game**
